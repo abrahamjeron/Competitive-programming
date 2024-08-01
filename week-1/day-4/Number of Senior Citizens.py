@@ -7,4 +7,5 @@ class Solution:
             if int(age)>60:
                 count+=1
         return count
-        
+    
+    
