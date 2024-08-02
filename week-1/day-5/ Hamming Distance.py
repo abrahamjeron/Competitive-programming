@@ -1,3 +1,4 @@
+# Difficulty level: Easy
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
         bin_x = bin(x)[2:] 
