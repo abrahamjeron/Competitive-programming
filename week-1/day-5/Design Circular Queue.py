@@ -1,3 +1,4 @@
+# Difficulty level: Medium
 class MyCircularQueue:
     
     def __init__(self, k: int):

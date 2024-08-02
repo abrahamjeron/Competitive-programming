@@ -1,3 +1,4 @@
+# Difficulty level: Medium
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
         n= len(nums)
